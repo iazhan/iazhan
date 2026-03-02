@@ -56,9 +56,8 @@
 
 <div align="center">
 
-![AZhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=iazhan&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iazhan&layout=compact&hide_border=true)
-
+![AZhan's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iazhan&show_icons=true&hide_border=true&cache_seconds=86400)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iazhan&layout=compact&hide_border=true&cache_seconds=86400)
 </div>
 
 ---
